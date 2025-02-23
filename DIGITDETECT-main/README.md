@@ -27,7 +27,7 @@ DigitDetect is a GUI-based desktop application for recognizing handwritten digit
 
 ## Installation
    Clone the repository:
-   git clone https://github.com/anshulrawat2507/DIGITDETECT.git
+   git clone https://github.com/Kanikaramola14/digitdetect.git
    cd DIGITDETECT
 
    Install the required dependencies:
@@ -59,8 +59,8 @@ Submit a pull request.
 
 For any questions or feedback, feel free to reach out:
 
-Anshul Rawat
+Kanika ramola
 
-GitHub: anshulrawat2507
+GitHub: Kanika ramola
 
-Email: anshulrawat519@gmail.com
+Email: kanikaofficial14@gmail.com
